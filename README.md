@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm James Ndarila Wanjala ??
 
-<!--
-**Ndarila/Ndarila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | AI/ML Engineer
 
-Here are some ideas to get you started:
+Certified Data & AI Specialist with expertise in Data Analytics, Machine Learning, Business Intelligence, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL
+- Power BI
+- Tableau
+- Machine Learning
+- Data Visualization
+- Generative AI
+- Git & GitHub
+
+### Featured Projects
+- Customer Churn Prediction
+- Netflix Data Wrangling & EDA
+- Deep Learning Projects
+- NLP with Transformers
+- BERT Sentence Similarity
+- MindMate Harmony Space
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/james-ndarila-2185971a4
+- Portfolio: https://ndarila.github.io
+- GitHub: https://github.com/Ndarila
