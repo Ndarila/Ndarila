@@ -1,5 +1,3 @@
----
-
 #  James Ndarila Wanjala
 ### Data & AI Specialist | Machine Learning Engineer | Data Analyst | NLP Engineer
 
