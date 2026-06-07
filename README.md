@@ -1,10 +1,6 @@
 ---
-layout: home
-title: "James Ndarila"
-author_profile: true
----
 
-# 🚀 James Ndarila
+#  James Ndarila Wanjala
 ### Data & AI Specialist | Machine Learning Engineer | Data Analyst | NLP Engineer
 
 I design and build **data-driven and AI-powered systems** that transform raw data into insights, predictions, and intelligent solutions.
